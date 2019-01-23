@@ -1,0 +1,25 @@
+﻿IdentifierTrip;routeName;wosName;startTime;endTime;schoolPeriod;remarks
+IdentifierTripDetail;routeName;wosName;startTime;stationName;arrivalTime;deltaTime;seqOrder
+TR;Portinho<->Funchal-Caniço;Segunda a Sexta;05:45:00;06:15:00;FALSE;
+TD;Portinho<->Funchal-Caniço;Segunda a Sexta;05:45:00;Portinho;05:45:00;00:10:00;1
+TD;Portinho<->Funchal-Caniço;Segunda a Sexta;05:45:00;Vargem;05:55:00;00:20:00;2
+TD;Portinho<->Funchal-Caniço;Segunda a Sexta;05:45:00;Funchal-Caniço;06:15:00;;3
+TR;Portinho<->Funchal-Caniço;Segunda a Sexta;06:20:00;06:50:00;FALSE;
+TD;Portinho<->Funchal-Caniço;Segunda a Sexta;06:20:00;Portinho;06:20:00;00:10:00;1
+TD;Portinho<->Funchal-Caniço;Segunda a Sexta;06:20:00;Vargem;06:30:00;00:20:00;2
+TD;Portinho<->Funchal-Caniço;Segunda a Sexta;06:20:00;Funchal-Caniço;06:50:00;;3
+TR;Funchal-Caniço<->Portinho;Segunda a Sexta;05:45:00;06:15:00;FALSE;
+TD;Funchal-Caniço<->Portinho;Segunda a Sexta;05:45:00;Funchal-Caniço;05:45:00;00:20:00;1
+TD;Funchal-Caniço<->Portinho;Segunda a Sexta;05:45:00;Vargem;06:05:00;00:10:00;2
+TD;Funchal-Caniço<->Portinho;Segunda a Sexta;05:45:00;Portinho;06:15:00;;3
+TR;Vargem<->Funchal-Caniço;Segunda a Sexta;07:15:00;07:40:00;FALSE;
+TD;Vargem<->Funchal-Caniço;Segunda a Sexta;07:15:00;Vargem;07:15:00;00:25:00;1
+TD;Vargem<->Funchal-Caniço;Segunda a Sexta;07:15:00;Funchal-Caniço;07:40:00;;2
+TR;Funchal-Rodoeste<->Ponte dos Frades;Sábados;21:35:00;22:00:00;FALSE;
+TD;Funchal-Rodoeste<->Ponte dos Frades;Sábados;21:35:00;Funchal-Rodoeste;21:35:00;00:25:00;1
+TD;Funchal-Rodoeste<->Ponte dos Frades;Sábados;21:35:00;Camara de Lobos;21:55:00;00:05:00;2
+TD;Funchal-Rodoeste<->Ponte dos Frades;Sábados;21:35:00;Ponte dos Frades;22:00:00;;3
+TR;Ponte dos Frades<->Funchal-Rodoeste;Segunda a Sexta;08:15:00;08:40:00;TRUE;
+TD;Ponte dos Frades<->Funchal-Rodoeste;Segunda a Sexta;08:15:00;Ponte dos Frades;08:15:00;00:05:00;1
+TD;Ponte dos Frades<->Funchal-Rodoeste;Segunda a Sexta;08:15:00;Camara de Lobos;08:20:00;00:25:00;2
+TD;Ponte dos Frades<->Funchal-Rodoeste;Segunda a Sexta;08:15:00;Funchal-Rodoeste;08:45:00;;3

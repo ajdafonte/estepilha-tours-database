@@ -1,0 +1,13 @@
+﻿IdentifiertT,companyName,companyNumber,companyTime,isCompanyLda,companyRemarks,companyLatitude,companyLongitude,companyDate
+IdentifiertTD,startTime,endTime,stationName,arrivalTime,deltaTime,seqorder,,
+TR,canico1,1234,01:20:00,TRUE,,32.651383,-16.822528,12/12/2018
+TD,00:20:00,00:25:00,Station1,00:20:00,00:05:00,1,,
+TD,00:30:00,00:35:00,Station2,00:30:00,00:35:00,2,,
+TR,canico2,1235,00:20:00,FALSE,remarks2,32.651383,-16.822528,13/12/2018
+TD,00:40:00,00:45:00,Station1,00:40:00,00:15:00,1,,
+TD,00:50:00,00:55:00,Station2,00:50:00,00:25:00,2,,
+TD,01:30:00,01:35:00,Station3,01:30:00,01:35:00,3,,
+TD,02:30:00,02:35:00,Station4,02:30:00,02:35:00,4,,
+TR,canico3,1236,00:00:20,TRUE,,32.651383,-16.822528,14/12/2018
+TD,02:20:00,02:25:00,Station1,00:10:00,01:10:00,1,,
+TD,01:20:00,01:25:00,Station2,00:45:00,01:45:00,2,,

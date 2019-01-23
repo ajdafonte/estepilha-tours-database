@@ -1,0 +1,5 @@
+﻿companyName,companyNumber,companyTime,isCompanyLda,companyRemarks,companyLatitude,companyLongitude,companyDate
+canico1,1234,01:20:00,TRUE,,32.651383,-16.822528,12/12/2018
+canico2,1235,00:20:00,FALSE,remarks2,32.651383,-16.822528,13/12/2018
+canico3,1236,00:00:20,TRUE,,32.651383,-16.822528,14/12/2018
+canico4,1237,04:20:00,FALSE,remarks4,32.651383,-16.822528,15/12/2018
